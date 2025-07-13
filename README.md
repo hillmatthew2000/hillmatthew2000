@@ -24,5 +24,6 @@
 
 ## 📈 GitHub Stats
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=hillmatthew2000&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hillmatthew2000&layout=compact&theme=tokyonight)
+| Stats | Most Used Languages |
+|-------|---------------------|
+| ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=hillmatthew2000&show_icons=true&theme=tokyonight&border_radius=10) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hillmatthew2000&layout=compact&theme=tokyonight&border_radius=10) |
