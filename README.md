@@ -1,4 +1,4 @@
-# 🌐 About Me:
+# 🌐 About Me
 
 - 🔭 I’m currently specializing in cloud technologies (Azure)
 - 🤝 I’m looking for help with an app to integrate with the ATAK software for the DoD
